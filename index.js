@@ -31,7 +31,7 @@ app.get("/api/products", async (req, res) => {
 
 mongoose
   .connect(
-    "mongodb+srv://bibek:bibek@backenddb.f3ale31.mongodb.net/?appName=BackendDB"
+    ""
   )
   .then(() => {
     console.log("Connected to Database");
