@@ -1,0 +1,28 @@
+{
+  "name": "mern-crud-1",
+  "version": "1.0.0",
+  "description": "Hackathon Practise Project",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BibekYogi6462/Hackathon-Practise-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BibekYogi6462/Hackathon-Practise-/issues"
+  },
+  "homepage": "https://github.com/BibekYogi6462/Hackathon-Practise-#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^6.20.0",
+    "mongoose": "^8.19.2",
+    "nodemon": "^3.1.10"
+  }
+}
